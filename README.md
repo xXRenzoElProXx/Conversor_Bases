@@ -10,7 +10,7 @@ Este proyecto es un **Conversor de Bases** interactivo que permite convertir nú
 - **Interfaz amigable**: Diseño simple y funcional para facilitar su uso.  
 
 ## 📸 Imágenes  
-*(Incluye una captura de pantalla de la aplicación aquí)*  
+![Captura de pantalla de la aplicación](./screenshot.jpeg)
 
 ## 🛠️ Tecnologías utilizadas  
 <p align="center">  
