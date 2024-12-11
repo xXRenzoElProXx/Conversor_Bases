@@ -1,4 +1,4 @@
-# 🔢 Conversor de Bases  
+![image](https://github.com/user-attachments/assets/f3facba7-db79-44b4-8bef-e9fde291e271)# 🔢 Conversor de Bases  
 ## 📖 Descripción  
 Este proyecto es un **Conversor de Bases** interactivo que permite convertir números entre diferentes sistemas numéricos, como binario, octal, decimal, hexadecimal, entre otros. La aplicación es intuitiva y facilita la entrada, validación y conversión de números en diversas bases.  
 
@@ -41,10 +41,10 @@ cd conversor-bases
 ### 3. Abre el archivo index.html en tu navegador para usar la aplicación.
 
 ## 🧑‍💻 Uso de la aplicación
-* Introduce el número: Escribe el número que deseas convertir en el campo de texto.
-* Selecciona las bases: Usa los menús desplegables para elegir la base de entrada y la base de salida.
-* Obtén el resultado: Observa el resultado de la conversión en tiempo real.
-* Validación automática: Solo se permiten caracteres válidos según la base de entrada seleccionada.
+* **Introduce el número:** Escribe el número que deseas convertir en el campo de texto.
+* **Selecciona las bases:** Usa los menús desplegables para elegir la base de entrada y la base de salida.
+* **Obtén el resultado:** Observa el resultado de la conversión en tiempo real.
+* **Validación automática:** Solo se permiten caracteres válidos según la base de entrada seleccionada.
 
 ## 📂 Estructura de archivos
 ```bash
