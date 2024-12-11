@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f3facba7-db79-44b4-8bef-e9fde291e271)# 🔢 Conversor de Bases  
+# 🔢 Conversor de Bases  
 ## 📖 Descripción  
 Este proyecto es un **Conversor de Bases** interactivo que permite convertir números entre diferentes sistemas numéricos, como binario, octal, decimal, hexadecimal, entre otros. La aplicación es intuitiva y facilita la entrada, validación y conversión de números en diversas bases.  
 
