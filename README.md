@@ -1,5 +1,4 @@
 # 🔢 Conversor de Bases  
-
 ## 📖 Descripción  
 Este proyecto es un **Conversor de Bases** interactivo que permite convertir números entre diferentes sistemas numéricos, como binario, octal, decimal, hexadecimal, entre otros. La aplicación es intuitiva y facilita la entrada, validación y conversión de números en diversas bases.  
 
@@ -57,5 +56,5 @@ conversor-bases/
 ```
 
 ## 💡 Notas
-Esta aplicación es ideal para aprender y practicar sobre sistemas numéricos y conversiones entre bases.
-¡Asegúrate de ingresar valores válidos para obtener resultados precisos!
+### Esta aplicación es ideal para aprender y practicar sobre sistemas numéricos y conversiones entre bases.
+### ¡Asegúrate de ingresar valores válidos para obtener resultados precisos!
