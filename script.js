@@ -24,6 +24,18 @@ function updateToBaseOptions() {
     }
 }
 
+function swapBases() {
+    const fromBase = document.getElementById('fromBase');
+    const toBase = document.getElementById('toBase');
+
+    const temp = fromBase.value;
+    fromBase.value = toBase.value;
+    toBase.value = temp;
+
+    updateToBaseOptions();
+    convert();
+}
+
 function convert() {
     const numberInput = document.getElementById('numberInput').value;
     const fromBase = parseInt(document.getElementById('fromBase').value);
@@ -47,6 +59,11 @@ function convert() {
         return;
     }
 
-    const convertedNumber = number.toString(toBase).toUpperCase();
+    let convertedNumber = number.toString(toBase).toUpperCase();
+
+    if (toBase === 2) {
+        convertedNumber = convertedNumber.padStart(8, '0');
+    }
+
     resultElement.textContent = convertedNumber;
 }
